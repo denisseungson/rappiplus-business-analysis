@@ -68,7 +68,21 @@ El análisis completo puede consultarse en el siguiente notebook:
 
 ➡️ [Ver notebook de análisis de RappiPlus](rappiplus_analysis.ipynb)
 
-El repositorio se complementará con evidencias visuales del dashboard desarrollado en Power BI.
+### Dashboard en Power BI
+
+A continuación se presentan algunas de las principales vistas desarrolladas para comunicar los resultados del análisis.
+
+#### Overview Ejecutivo
+
+![Overview Ejecutivo de RappiPlus](rappiplus_overview.png)
+
+#### Análisis de Rentabilidad
+
+![Análisis de Rentabilidad de RappiPlus](rappiplus_rentabilidad.png)
+
+#### Conclusiones Ejecutivas
+
+![Conclusiones Ejecutivas de RappiPlus](rappiplus_conclusiones.png)
 
 ## Autora
 
